@@ -1,0 +1,18 @@
+button {
+    color: red;
+    background-color: yellow;
+}
+.my-3::before {
+    box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
+}
+.my-3 {
+background-color: rgba(255, 255, 255, .15);  
+margin: 20% 0 20% 0;
+padding: 2% 2% 2% 2%;
+border-radius: 25px
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
